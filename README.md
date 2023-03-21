@@ -1,5 +1,6 @@
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krzyswys&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krzyswys&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krzyswys)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **krzyswys/krzyswys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

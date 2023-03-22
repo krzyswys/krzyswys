@@ -15,7 +15,7 @@
 <table>
     <tbody>
         <tr>
-            <td> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-vertial.svg" /> </td>
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></td>
@@ -23,7 +23,8 @@
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/></td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></td>
-            <td> <img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"/></td>  
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"/></td> 
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/></td> 
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></td>
         </tr>
     </tbody>

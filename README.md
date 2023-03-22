@@ -3,17 +3,11 @@
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krzyswys&hide=css,java,javascript,scss,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krzyswys&&hide=css,scss,jupyter%20notebook,html&theme=tokyonight"/>
 
-<!--
-**krzyswys/krzyswys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:d
+- 🔭 2nd-year Computer Science student at AGH University
+- 🌱 I’m currently learning C, Scala and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...d
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+

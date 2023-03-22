@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krzysztof-wysocki-38b049247/)
 ![](https://img.shields.io/badge/krzyswys3@gmail.com-%230077B5.svg?style=for-the-badge&logo=gmail)
  
-
+<h3>Technologies I am familiar with: </h3>
 <table>
     <tbody>
         <tr>

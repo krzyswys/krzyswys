@@ -5,8 +5,11 @@
 
 - 🔭 2nd-year Computer Science student at AGH University
 - 🌱 I’m currently learning C, Scala and React
+
+<p> <h3>Contact me:</h3>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
 [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail)](https://www.linkedin.com/in/zluvsand/)
+ </p>
 
 
 

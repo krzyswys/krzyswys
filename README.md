@@ -12,6 +12,20 @@
 [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail)](https://www.linkedin.com/in/zluvsand/)
  
 
-
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+            </a></td>
+            <td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 
 

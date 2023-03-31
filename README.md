@@ -1,6 +1,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=krzyswys&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krzyswys&&hide=css,scss,jupyter%20notebook,html&theme=tokyonight&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krzyswys&&hide=css,scss,jupyter%20notebook,html&theme=tokyonight&layout=compact&langs_count=6"/>
 
 
 - 🔭 2nd-year Computer Science student at AGH University
